@@ -1,0 +1,30 @@
+# Python
+
+**pycache**/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+
+venv/
+.env
+
+# IDE
+
+.vscode/
+.idea/
+
+# Generated Files
+
+outputs/
+schema.json
+
+# OS Files
+
+.DS_Store
+Thumbs.db
+
+# Streamlit
+
+.streamlit/secrets.toml
